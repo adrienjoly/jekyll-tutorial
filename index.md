@@ -1,9 +1,5 @@
 <link rel="stylesheet" href="index.css" />
  
-Hello world!
-
-This is a **markdown** file.
-
 ## Albums
 
 {% for album in site.data.albums %}
