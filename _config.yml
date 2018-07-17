@@ -2,3 +2,4 @@
 
 algolia:
   application_id: 'R6Y1H83FNX'
+  index_name: 'albums'
