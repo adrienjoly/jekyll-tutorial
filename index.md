@@ -17,10 +17,10 @@
 
 <!-- algolia search -->
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch.min.css">
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch-theme-algolia.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js/dist/instantsearch.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js/dist/instantsearch-theme-algolia.min.css">
 
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js"></script>
 
 <script>
   /* we are going to add some javascript code here */
