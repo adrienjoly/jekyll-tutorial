@@ -1,5 +1,9 @@
 # _config.yml
 
+# prevent Jekyll from trying to parse the .md files from docs/
+exclude:
+  - docs/**/*.md
+
 algolia:
   application_id: 'R6Y1H83FNX'
   index_name: 'albums'
