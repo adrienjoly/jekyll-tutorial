@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="index.css" />
- 
+
 ## Albums
 
 {% for album in site.data.albums %}
@@ -14,3 +14,16 @@
     {% endif %}
   </article>
 {% endfor %}
+
+<!-- algolia search -->
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1/dist/instantsearch-theme-algolia.min.css">
+
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.8.1"></script>
+
+<script>
+  /* we are going to add some javascript code here */
+</script>
+
+<!-- end of algolia search --> 
