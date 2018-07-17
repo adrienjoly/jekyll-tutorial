@@ -1,0 +1,4 @@
+# _config.yml
+
+algolia:
+  application_id: 'R6Y1H83FNX'
