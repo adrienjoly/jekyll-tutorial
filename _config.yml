@@ -4,3 +4,4 @@ algolia:
   application_id: 'R6Y1H83FNX'
   index_name: 'albums'
   files_to_exclude: []
+  nodes_to_index: 'article'
