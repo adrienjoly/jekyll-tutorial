@@ -17,7 +17,7 @@ search.addWidget(
     container: '#hits',
     templates: {
       empty: 'No results',
-      item: '<em>Hit {{objectID}}</em>: {{{_highlightResult.name.value}}}'
+      item: '<em>Hit {{objectID}}</em>: {{{_highlightResult.content.value}}}'
     }
   })
 );
